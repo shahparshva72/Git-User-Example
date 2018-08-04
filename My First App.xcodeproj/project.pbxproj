@@ -12,6 +12,7 @@
 		EDFE49C42115853A00D29B8C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDFE49C22115853A00D29B8C /* Main.storyboard */; };
 		EDFE49C62115853A00D29B8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDFE49C52115853A00D29B8C /* Assets.xcassets */; };
 		EDFE49C92115853A00D29B8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDFE49C72115853A00D29B8C /* LaunchScreen.storyboard */; };
+		EDFE49D121158A8E00D29B8C /* MapForItenerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDFE49D021158A8E00D29B8C /* MapForItenerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EDFE49C52115853A00D29B8C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EDFE49C82115853A00D29B8C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EDFE49CA2115853A00D29B8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDFE49D021158A8E00D29B8C /* MapForItenerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItenerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EDFE49C52115853A00D29B8C /* Assets.xcassets */,
 				EDFE49C72115853A00D29B8C /* LaunchScreen.storyboard */,
 				EDFE49CA2115853A00D29B8C /* Info.plist */,
+				EDFE49D021158A8E00D29B8C /* MapForItenerary.swift */,
 			);
 			path = "My First App";
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDFE49D121158A8E00D29B8C /* MapForItenerary.swift in Sources */,
 				EDFE49C12115853A00D29B8C /* ViewController.swift in Sources */,
 				EDFE49BF2115853A00D29B8C /* AppDelegate.swift in Sources */,
 			);
