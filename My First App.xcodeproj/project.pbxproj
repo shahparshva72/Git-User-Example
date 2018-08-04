@@ -58,11 +58,11 @@
 			children = (
 				EDFE49BE2115853A00D29B8C /* AppDelegate.swift */,
 				EDFE49C02115853A00D29B8C /* ViewController.swift */,
+				EDFE49D021158A8E00D29B8C /* MapForItenerary.swift */,
 				EDFE49C22115853A00D29B8C /* Main.storyboard */,
 				EDFE49C52115853A00D29B8C /* Assets.xcassets */,
 				EDFE49C72115853A00D29B8C /* LaunchScreen.storyboard */,
 				EDFE49CA2115853A00D29B8C /* Info.plist */,
-				EDFE49D021158A8E00D29B8C /* MapForItenerary.swift */,
 			);
 			path = "My First App";
 			sourceTree = "<group>";
